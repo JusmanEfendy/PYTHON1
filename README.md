@@ -55,4 +55,19 @@
         
         
       
-- 
+- TYPE CONVERSION
+
+    Di dalam type conversion itu dimana integer tidak bisa dikurangi dengan string maka hasilnya akan error. cara penyelesaiannya itu harus diubah dulu type datanya ke integer
+    
+    - contohnya dibawah ini
+    
+    ![Annotation 2021-11-06 060119](https://user-images.githubusercontent.com/92988781/140610675-a0a61306-c68e-4627-bf40-dc401ba4b3c5.png)
+        
+     - saya membuat semua tipe data yang di input oleh user bertipe integer (int)
+
+    ![Annotation 2021-11-06 060147](https://user-images.githubusercontent.com/92988781/140610825-7aee47b4-1f4c-40d2-9f1f-d79aeb6f4624.png)
+
+
+
+- MAAF JIKA ADA KESALAHAN !!!
+
