@@ -39,9 +39,20 @@
 
     Untuk menerima input dari user menggunakan terminal. Di python kita menggunakan function atau perintah "input" (jangan lupa parameternya "()" ) bawaan dari python
     
+    - Contohnya sebagai berikut
 
+      ![Annotation 2021-11-06 044240](https://user-images.githubusercontent.com/92988781/140608356-2bb999a1-b570-45f1-87ad-a136fafdc8dc.png)
+      
+      
+      - pertama anda harus membuat nama variabel "contoh dan contoh1" adalah variabel.
+      - lalu, sebut tipe datanya apa kira-kira yang akan di masukkan oleh user
+      - trus ketik function "input" untuk menerima input dari user
+      - dan masukkan string (Siapa nama anda) 
+      - untuk outputnya / pengakhiran program kita ketik "print" (Senang berkenalan dengan anda) lalu panggil si variabel "contoh" untuk menambahkan nama user di outputan
+      - bwrikut outputnya
 
-
-    
-    
-
+        ![Annotation 2021-11-06 044308](https://user-images.githubusercontent.com/92988781/140608539-ed71cf79-64d8-47a9-9d6e-2903305e36d0.png)
+        
+        
+      
+- 
