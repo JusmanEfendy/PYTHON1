@@ -37,7 +37,8 @@
       
 - MENERIMA INPUT DARI USER
 
-  
+    Untuk menerima input dari user menggunakan terminal. Di python kita menggunakan function atau perintah "input" (jangan lupa parameternya "()" ) bawaan dari python
+    
 
 
 
